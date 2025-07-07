@@ -139,3 +139,5 @@ inventory-management-system/
 - For production use, implement proper authentication and authorization
 - The database is set up to initialize required tables on first run
 - Sample data can be provided via CSV upload
+
+# inventoy-management-project
